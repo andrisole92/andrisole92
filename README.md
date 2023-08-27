@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Andrey
-- 👀 I’m interested in writing software that matters.
-- 🌱 I love product development. <3
-- 📫 andrisole92@gmail.com
+👋 don't be shy say hi
